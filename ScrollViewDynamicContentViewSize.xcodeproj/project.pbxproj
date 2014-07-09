@@ -12,6 +12,7 @@
 		B91796A21965E198001DC424 /* DIN Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B91796A01965E198001DC424 /* DIN Medium.ttf */; };
 		B91796A519692510001DC424 /* like_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B91796A419692510001DC424 /* like_icon.png */; };
 		B918287E195A3CB000B492E8 /* UIColor+UIColor_LighterDarker.m in Sources */ = {isa = PBXBuildFile; fileRef = B918287D195A3CB000B492E8 /* UIColor+UIColor_LighterDarker.m */; };
+		B928C977196BC032004623A5 /* michael-caine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B928C976196BC032004623A5 /* michael-caine.jpg */; };
 		B93D8DED195F5A090041E777 /* StatusViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B93D8DEC195F5A090041E777 /* StatusViewController.m */; };
 		B93D8DF0195F67E60041E777 /* UIColor+Expanded.m in Sources */ = {isa = PBXBuildFile; fileRef = B93D8DEF195F67E60041E777 /* UIColor+Expanded.m */; };
 		B9446EEF1957513D00806478 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9446EEE1957513D00806478 /* Foundation.framework */; };
@@ -50,6 +51,7 @@
 		B91796A419692510001DC424 /* like_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = like_icon.png; sourceTree = "<group>"; };
 		B918287C195A3CB000B492E8 /* UIColor+UIColor_LighterDarker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+UIColor_LighterDarker.h"; sourceTree = "<group>"; };
 		B918287D195A3CB000B492E8 /* UIColor+UIColor_LighterDarker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+UIColor_LighterDarker.m"; sourceTree = "<group>"; };
+		B928C976196BC032004623A5 /* michael-caine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "michael-caine.jpg"; sourceTree = "<group>"; };
 		B93D8DEB195F5A090041E777 /* StatusViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StatusViewController.h; sourceTree = "<group>"; };
 		B93D8DEC195F5A090041E777 /* StatusViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StatusViewController.m; sourceTree = "<group>"; };
 		B93D8DEE195F67E60041E777 /* UIColor+Expanded.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Expanded.h"; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 		B91796A319692399001DC424 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				B928C976196BC032004623A5 /* michael-caine.jpg */,
 				B91796A419692510001DC424 /* like_icon.png */,
 			);
 			name = Images;
@@ -298,6 +301,7 @@
 				B91796A519692510001DC424 /* like_icon.png in Resources */,
 				B91796A21965E198001DC424 /* DIN Medium.ttf in Resources */,
 				B9446F071957513D00806478 /* Images.xcassets in Resources */,
+				B928C977196BC032004623A5 /* michael-caine.jpg in Resources */,
 				B9446EF91957513D00806478 /* InfoPlist.strings in Resources */,
 				B9446F021957513D00806478 /* Main.storyboard in Resources */,
 			);
